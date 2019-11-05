@@ -20,7 +20,7 @@
     "coveralls": "^3.0.2",
     "cross-env": "^5.2.0",
     "istanbul": "^0.4.5",
-    "jshint": "^2.9.5",
+    "jshint": "^2.10.3",
     "mocha": "^5.2.0"
   },
   "keywords": [
